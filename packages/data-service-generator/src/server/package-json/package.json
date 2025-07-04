@@ -46,7 +46,7 @@
     "passport-jwt": "4.0.1",
     "reflect-metadata": "0.1.13",
     "ts-node": "10.9.2",
-    "type-fest": "2.19.0",
+    "type-fest": "4.41.0",
     "validator": "13.12.0"
   },
   "devDependencies": {
