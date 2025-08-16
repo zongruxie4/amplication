@@ -1,4 +1,4 @@
-FROM nginx:1.20-alpine
+FROM nginx:1.29.1-alpine
 
 RUN apk add --update nodejs
 
