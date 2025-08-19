@@ -56,6 +56,12 @@
     "@nrwl/nx-cloud": "16.0.0",
     "@nrwl/webpack": "16.0.0",
     "@nrwl/workspace": "16.0.0",
+     master
+    "@nrwl/node": "15.4.5",
+    "@nrwl/nx-cloud": "15.0.3",
+    "@nrwl/webpack": "15.4.5",
+    "@nrwl/workspace": "15.4.5",
+     snyk-fix-107003762a54940143c9b9b7b0062a00
     "@nx-tools/nx-container": "^5.2.1",
     "@testing-library/jest-dom": "5.14.1",
     "@testing-library/react": "11.2.7",
