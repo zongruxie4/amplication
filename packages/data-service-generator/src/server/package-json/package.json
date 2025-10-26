@@ -47,7 +47,7 @@
     "reflect-metadata": "0.1.13",
     "ts-node": "10.9.2",
     "type-fest": "2.19.0",
-    "validator": "13.12.0"
+    "validator": "13.15.20"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.1.18",
