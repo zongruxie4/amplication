@@ -24,7 +24,7 @@ COPY . .
 RUN npm run build
 
 # multi-stage: production (runtime)
-FROM nginx:1.22-alpine AS production
+FROM nginx:1.29.5-alpine AS production
 
 # copy over the bundled code from the build stage
 COPY --from=base /app/build /usr/share/nginx/html
