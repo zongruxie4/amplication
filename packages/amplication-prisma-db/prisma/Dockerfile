@@ -1,4 +1,4 @@
-FROM node:12
+FROM node:24.7.0-trixie-slim
 RUN openssl version -v
 RUN uname -a
 
