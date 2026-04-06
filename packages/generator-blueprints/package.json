@@ -30,6 +30,6 @@
     "yaml": "2.7.0",
     "@amplication/csharp-ast": "*",
     "@amplication/ast-types": "*",
-    "pacote": "^19.0.0"
+    "pacote": "^21.0.1"
   }
 }
