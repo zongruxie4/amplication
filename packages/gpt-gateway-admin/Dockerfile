@@ -8,7 +8,7 @@ WORKDIR /app
 COPY ./packages/gpt-gateway-admin/ .
  
 # multi-stage: production (runtime)
-FROM nginx:1.22-alpine AS production
+FROM nginx:1.29.3-alpine AS production
 RUN apk add --update nodejs
 
 # copy over the bundled code from the build stage
