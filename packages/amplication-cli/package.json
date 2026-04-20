@@ -66,10 +66,16 @@
     "@types/pluralize": "0.0.29",
     "@types/url-join": "4.0.1",
     "@typescript-eslint/eslint-plugin": "2.34.0",
+    "@typescript-eslint/parser": "4.0.0",
+    "eslint": "9.0.0",
+    "eslint-config-oclif": "4.0.0",
+    "eslint-config-oclif-typescript": "3.1.14",
+     master
     "@typescript-eslint/parser": "2.34.0",
-    "eslint": "5.16.0",
+    "eslint": "9.0.0",
     "eslint-config-oclif": "3.1.0",
     "eslint-config-oclif-typescript": "0.2.0",
+     snyk-fix-8734aba21d12a5286ec41bed3bf6b2ff
     "eslint-import-resolver-lerna": "2.0.0",
     "eslint-plugin-import": "2.23.4",
     "ts-node": "8.10.2",
